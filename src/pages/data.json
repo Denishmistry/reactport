@@ -1,0 +1,141 @@
+{
+"SocialMedias": [
+  "https://github.com/",
+  "https://www.linkedin.com/",
+  "https://www.facebook.com/"
+],
+"About": [
+  {
+	"name": "John Deo",
+	"aboutdescription": "Praesent sed aliquam arcu, non accumsan neque. In odio ante, vulputate ac magna vel, pharetra lobortis quam. Duis enim tortor, egestas et felis id, lobortis malesuada magna. Nunc sit amet sagittis nisi, eu semper nisl. Cras ut dictum nisl. Donec tincidunt eget orci. Aliquam mollis, leo nec commodo facilisis, turpis lorem dapibus erat, sed consectetur nunc nulla ac elit. Suspendisse dictum id dui mollis auctor. Etiam id sapien neque. Cras nec rhoncus sem. Mauris metus ligula, varius vel iaculis at, pulvinar tincidunt magna.",
+	"designation": "Web Designer & Front-End Developer"
+
+  }
+],
+"Whatido": [
+  {
+	"maintitle": "What I Do",
+	"Widdescription": [
+	  {
+	  	"icon":"lnr lnr-store",
+		"widtitle": "Ecommerce",
+		"widdesc": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio."
+	
+	  },
+	   {
+	   	"icon":"lnr lnr-pencil",
+		"widtitle": "Copywriter",
+		"widdesc": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio."
+	
+	  },
+	   {
+	   	"icon":"lnr lnr-laptop-phone",
+		"widtitle": "Web Design",
+		"widdesc": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio."
+	
+	  },
+	   {
+	   	"icon":"lnr lnr-flag",
+		"widtitle": "Management",
+		"widdesc": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio."
+	  }
+	]
+  }
+],
+"Testimonial": [
+  {	
+  	"clientimageurl":"../images/testimonials/testimonial-1.jpg",
+	"comment": "Nam tempor commodo mi id sodales. Aenean sit amet nibh nec sapien consequat porta a sit amet diam.",
+	"clientname": "Gary Johnson",
+	"clientfirm": "Locost Accessories"
+	
+  },
+    {
+    "clientimageurl":"../images/testimonials/testimonial-2.jpg",
+	"comment": "Nam tempor commodo mi id sodales. Aenean sit amet nibh nec sapien consequat porta a sit amet diam.",
+	"clientname": "Daniel Pringle",
+	"clientfirm": "Rolling Thunder"
+	
+  },
+    {
+    "clientimageurl":"../images/testimonials/testimonial-3.jpg",
+	"comment": "Nam tempor commodo mi id sodales. Aenean sit amet nibh nec sapien consequat porta a sit amet diam.",
+	"clientname": "Billy Adams",
+	"clientfirm": "Sagebrush"	
+  }
+],
+"Experiences": [
+  {
+	"companyName": "Demo1 Technologies",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+	"url": "https://www.google.com/",
+	"roles": [
+	  {
+		"title": "Full Stack Developer",
+		"description": "Built and updated various Chrome Extensions.",
+		"startDate": "2017-01-01",
+		"endDate": "2017-05-01",
+		"location": "New York, USA"
+	  }
+	]
+  },
+  {
+	"companyName": "Demo2 Technologies",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+	"url": "https://www.google.com/",
+	"roles": [
+	  {
+		"title": "UI Designer",
+		"description": "Design user-fridendly web page",
+		"startDate": "2016-05-01",
+		"endDate": "2016-09-01",
+		"location": "Beijing, China"
+	  }
+	]
+  }
+],
+"Skills": [
+  {
+	"Area": "Programming Language",
+	"SkillSet": [
+	  {
+		"Name": "Java",
+		"Hot": true
+	  },
+	  {
+		"Name": "C#",
+		"Hot": false
+	  },
+	  {
+		"Name": "Python",
+		"Hot": false
+	  }
+	]
+  },
+  {
+	"Area": "Web-Based Application Development",
+	"SkillSet": [
+	  {
+		"Name": "JavaScript (ES5, ES6)",
+		"Hot": true
+	  },
+	  {
+		"Name": "TypeScript",
+		"Hot": false
+	  },
+	  {
+		"Name": "HTML5",
+		"Hot": true
+	  },
+	  {
+		"Name": "CSS (SCSS/SASS)",
+		"Hot": true
+	  },
+	  {
+		"Name": "React",
+		"Hot": true
+	  }
+	]
+  }      
+]   
+}
